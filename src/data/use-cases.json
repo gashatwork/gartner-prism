@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "name": "Example Use Case 1",
+    "feasibility": 1.5714285714285716,
+    "businessValue": 2.4,
+    "translatedX": -0.19529615861342728,
+    "translatedY": 0.9360746912850487
+  },
+  {
+    "id": "2",
+    "name": "Example Use Case 2",
+    "feasibility": 1,
+    "businessValue": 1.2,
+    "translatedX": -0.04714045207910311,
+    "translatedY": 0.5185449728701349
+  },
+  {
+    "id": "3",
+    "name": "UC3",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "4",
+    "name": "UC4",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "5",
+    "name": "UC5",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "6",
+    "name": "UC6",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "7",
+    "name": "UC7",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "8",
+    "name": "UC8",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "9",
+    "name": "UC9",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "10",
+    "name": "UC10",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "11",
+    "name": "UC11",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "12",
+    "name": "UC12",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "13",
+    "name": "UC13",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "14",
+    "name": "UC14",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "15",
+    "name": "UC15",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "16",
+    "name": "UC16",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "17",
+    "name": "UC17",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "18",
+    "name": "UC18",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "19",
+    "name": "UC19",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "20",
+    "name": "UC20",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "21",
+    "name": "UC21",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "22",
+    "name": "UC22",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "23",
+    "name": "UC23",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "24",
+    "name": "UC24",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  },
+  {
+    "id": "25",
+    "name": "UC25",
+    "feasibility": 0,
+    "businessValue": 0,
+    "translatedX": null,
+    "translatedY": null
+  }
+]
